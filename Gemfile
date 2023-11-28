@@ -1,1 +1,4 @@
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll"
+gem "kramdown-parser-gfm"
+
+source "https://rubygems.org"
